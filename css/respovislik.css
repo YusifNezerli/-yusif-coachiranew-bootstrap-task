@@ -1,0 +1,206 @@
+@media only screen and (max-width: 767px){
+.text5{
+    width: 100%;
+}
+.text8{
+    display: block;
+    width: 100%;  
+}
+
+.text6{
+    padding: 0;
+}
+
+.qodef-m-title{
+    display: block;
+    font-size: 30px;
+    padding:0px
+}
+.sekil5{
+    width: 300px;
+}
+.ust{
+    display: block;
+    text-align: center;
+    padding-left: 75px;
+    padding-top: inherit;
+}
+.color-free{
+    padding-left: 80px;
+
+}
+.free-bk{
+    padding-left: 80px;
+}
+.free-bk2{
+    padding-left: 21px;
+}
+.free-bk3{
+    padding-left: 21px;
+}
+.text12{
+    display: block;
+    padding: 0;
+}
+.high{
+    width: 300px;
+}
+
+.sonlug{
+    display: block;
+    width: 100%;
+}
+.flex-end{
+    display: block;
+    padding: 0;
+    padding-top: 30px;
+}
+.xett{
+    display: none; 
+}
+.end{
+    display: block;
+    padding: 0;
+    padding-top: 30px;
+}
+.contact{
+    width: 100%;
+    margin: 0 auto;
+}
+.learn{
+   padding: 0;
+}
+#myBtn{
+width: 55px;
+height: 55px;
+right: 10px;
+}
+.bg-color{
+    height: 100%;
+}
+    
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+    .text5{
+        width: 100%;
+    }
+    .sekil5{
+        width: 100%;
+        
+    }
+    .ust{
+        display: block;
+        text-align: center;
+        padding-left: 360px;
+        padding-top: inherit;
+        margin-top: -160px;
+    }
+    .sekil6{
+        width: 100px;
+        border-radius: 20px;
+    }
+    .high{
+        width: 100%;
+    }
+    .flex-end{
+        padding: 0;
+        margin: 0;
+        padding-top: 20px;
+
+    }
+    .contact{
+        width: 100%;
+    }
+    .end{
+        padding: 0;
+        padding-top: 50px;
+    }  
+    .sonlug{
+        width: 100%;
+    }
+    #myBtn{
+    width: 65px;
+    height: 65px;
+    right: 10px;
+   }
+   .card-title{
+    font-size: 16px;
+   }
+   .color-free{
+    padding: 0 0 0 40px;
+   }
+   .free-bk{
+    padding: 0 0 0 48px;
+   }
+   .free-bk2{
+    padding: 0 0 0 0;
+   }
+   .free-bk3{
+    padding: 0;
+   }
+
+}
+@media (min-width: 1024px) and (max-width: 1439px) {
+    .text5{
+        width: 100%;
+    }
+    .sekil5{
+        width: 100%;
+        
+    }
+    .sekil6{
+        width: 200px;
+
+    }
+    .take{
+        font-size: 30px;
+    }
+    .ust{
+        display: block;
+        text-align: center;
+        padding-left: 460px;
+        padding-top: inherit;
+        margin-top: -287px;
+    }
+    .text11{
+        padding-top: 45px;
+    }
+    #myBtn{
+        width: 65px;
+        height: 65px;
+        right: 10px;
+    }
+    .card-title{
+        font-size: 16px;
+    }
+    .color-free{
+        padding: 0 0 0 115px;
+    }
+    .free-bk{
+        padding: 0 0 0 120px;
+    }
+    .free-bk2{
+        padding: 0 0 0 60px;
+    }
+    .free-bk3{
+        padding: 0 0 0 60px;
+    }
+
+    .flex-end{
+        padding: 0;
+        margin: 0;
+        padding-top: 20px;
+    }
+    .contact{
+        width: 100%;
+    }
+    .end{
+        padding: 0;
+        padding-top: 50px;
+    }  
+    .sonlug{
+        width: 100%;
+    }
+}
+
+

@@ -1,0 +1,375 @@
+.sekil{
+    width: 180px;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+
+}
+.center-image{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.sekil2{
+border-radius: 20px;
+}
+.fon3{
+    height: 560px !important;
+    border-radius: 10px !important;
+    margin: 0 auto !important;
+    color:white;
+    
+    font-family: sans-serif;
+}
+.text1{
+    padding-left: 70px;
+    padding-top: 355px;
+
+}
+.card{
+    border: 0px solid rgba(0,0,0,.125) !important;
+}
+
+.orta-card{
+    display: flex;
+    justify-content: center;
+}
+.link{
+    background-color: #ffffff;
+    color: black;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-top: 30px;
+    text-align: left;
+    
+}
+.link span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+  
+.link span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.link:hover span {
+    padding-right: 25px;
+}
+  
+.link:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+.fon4{
+    padding-top: 30px;
+}
+.text2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+.logo2{
+
+  text-align: center;
+   
+}
+.sekil3{
+    padding: 60px;
+    width: 300px;
+    height: 300px;
+}
+.qisatext{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+
+}
+.sekil4{
+  width: 300px;
+    border-radius: 20px;
+}
+.fon5{
+    padding-top: 60px;
+    
+}
+.fon6{
+    padding-top: 30px;
+}
+.text5{
+   
+    width: 1300px;
+    padding-top: 10px;
+    margin: 0 auto;
+
+}
+.qodef-m-title{
+   font-size: 50px;
+   font-family: sans-serif;
+   font-weight: 400;
+   
+}
+.text6{
+    display: flex;
+    padding-left: 20px;
+
+}
+.bir{
+    font-family: "Gilda Display",serif;
+    font-size: 90px;
+    margin: -10px 0 0;
+}
+.Schedules{
+    font-size: 25px;
+    margin: 0;
+    padding-left: 10px;
+}
+.text7{
+    font-size: 16px;
+    margin: 2px;
+    padding-left: 10px;
+}
+.text8{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.lorem{
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: justify;
+   
+}
+.you{
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 300;
+   
+}
+.take{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.sekil5{
+    width: 500px;
+    height: 550px;
+    border-radius: 20px;
+}
+
+.name1{
+    color: gray;
+    font-family: sans-serif;
+}
+
+.ust{
+    display: inline;
+    margin-left: -130px;
+   
+}
+.text11{
+    font-size: 38px;
+    font-family: sans-serif;
+    font-weight: 300;
+    padding: 30px 0 0 90px;
+}
+.flex{
+    display:flex;
+    padding-top: 20px;
+}
+.flex-2{
+    display:flex;
+    padding-top: 11px;
+}
+
+.ulduz{
+    width: 15px;
+    height: 15px;
+    
+}
+.free-bk{
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0 0 0 230px;
+}
+.color-free{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: orange;
+    font-weight: 600;
+    padding: 0 0 0 230px;
+}
+.job1{
+    font-family: sans-serif;   
+}
+.free-bk2{
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0 0 0 180px;
+    text-decoration: line-through;
+}
+.color-free2{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: orange;
+    font-weight: 600;
+    padding: 0 0 0 5px;
+}
+.free-bk3{
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0 0 0 175px;
+    text-decoration: line-through;
+}
+.color-free3{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: orange;
+    font-weight: 600;
+    padding: 0 0 0 0px;
+}
+.name2{
+    font-size: 15px;
+    color: gray;
+    font-family: sans-serif;
+    font-weight: 200;
+    padding-top: 20px;
+}
+.button{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.text12{
+
+    display: flex;
+    justify-content: center;
+    padding-top: 80px; 
+
+    
+}
+.link2-1{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
+.link2{
+    
+    background-color: transparent;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-top: 30px;
+    text-align: left;
+      
+}
+.link2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+  
+.link2 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.link2:hover span {
+    padding-right: 25px;
+}
+  
+.link2:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+.high{
+    width: 800px;
+    font-size: 35px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+.learn{
+    padding: 0 0 0 50px
+}
+
+.logo3{
+    width: 200px;
+
+}
+.sonlug{
+    display: flex;
+    justify-content: space-between;
+    width: 1180px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+.xett{
+    width: 200px;
+    color: #ffffff;
+}
+.flex-end{
+    display: flex;
+    padding-left: 460px;
+    margin: -20px auto;
+
+}
+.contact{
+    
+    width: 303px;
+}
+.info{
+    font-size: 18px;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+.tel{
+    font-size: 16px;
+    color: gray;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+.end{
+    font-size: 16px;
+    color: gray;
+    padding:135px 0 0 70px;
+}
+.font-family{
+    font-family: sans-serif;
+    padding-top: 5px;
+}
+.bg-color{
+    background-color: black;
+    height: 505px;
+
+}
+.card-group{
+    width: 90% !important;
+    padding-top: 30px !important;
+}
